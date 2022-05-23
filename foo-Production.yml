@@ -1,4 +1,7 @@
 {
   "foo": "from foo props aaaa",
-  "democonfigclient": "hello spring io"
+  "democonfigclient": "hello spring io",
+  "test": {
+    "nested" : "value"
+  }
 }
